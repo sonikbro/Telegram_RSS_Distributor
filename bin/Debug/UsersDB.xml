@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<users>
+  <user id="1">
+    <tgid>581400172</tgid>
+    <rsslink>https://admin10.rabota.ua/Export/Vacancy/feed.ashx?regionId=11&amp;parentId=30</rsslink>
+  </user>
+  <user id="2">
+    <tgid>47962028</tgid>
+    <rsslink>https://admin10.rabota.ua/Export/Vacancy/feed.ashx?regionId=1&amp;parentId=1</rsslink>
+  </user>
+  <user id="3">
+    <tgid>47962028</tgid>
+    <rsslink>https://admin10.rabota.ua/Export/Vacancy/feed.ashx?regionId=1&amp;parentId=15</rsslink>
+  </user>
+  <user id="4">
+    <tgid>47962028</tgid>
+    <rsslink>https://admin10.rabota.ua/Export/Vacancy/feed.ashx?regionId=1&amp;parentId=1</rsslink>
+  </user>
+  <user id="5">
+    <tgid>47962028</tgid>
+    <rsslink>https://admin10.rabota.ua/Export/Vacancy/feed.ashx?regionId=1&amp;parentId=9</rsslink>
+  </user>
+</users>
